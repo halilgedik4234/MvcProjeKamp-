@@ -1,0 +1,34 @@
+C:\Users\Halil Gedik\Desktop\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Halil Gedik\Desktop\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Halil Gedik\Desktop\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Halil Gedik\Desktop\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Halil Gedik\Desktop\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Halil Gedik\Desktop\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Halil Gedik\Desktop\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Halil Gedik\Desktop\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Halil Gedik\Desktop\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Halil Gedik\Desktop\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Halil Gedik\Desktop\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\Desktop\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Halil Gedik\Desktop\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Halil Gedik\Desktop\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Halil Gedik\Desktop\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\Halil Gedik\Desktop\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+D:\Tüm Dersler Ve Materyalleri\yedek yedek\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Tüm Dersler Ve Materyalleri\yedek yedek\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Tüm Dersler Ve Materyalleri\yedek yedek\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Tüm Dersler Ve Materyalleri\yedek yedek\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\Tüm Dersler Ve Materyalleri\yedek yedek\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tüm Dersler Ve Materyalleri\yedek yedek\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\Tüm Dersler Ve Materyalleri\yedek yedek\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\Tüm Dersler Ve Materyalleri\yedek yedek\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+D:\Tüm Dersler Ve Materyalleri\yedek yedek\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\Tüm Dersler Ve Materyalleri\yedek yedek\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tüm Dersler Ve Materyalleri\yedek yedek\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Tüm Dersler Ve Materyalleri\yedek yedek\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+D:\Tüm Dersler Ve Materyalleri\yedek yedek\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+D:\Tüm Dersler Ve Materyalleri\yedek yedek\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Tüm Dersler Ve Materyalleri\yedek yedek\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\Tüm Dersler Ve Materyalleri\yedek yedek\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Tüm Dersler Ve Materyalleri\yedek yedek\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

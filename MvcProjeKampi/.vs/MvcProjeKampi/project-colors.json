@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "32b78c66-f38e-4ddf-bdf6-6f923c4ece1f": {
+      "ProjectGuid": "32b78c66-f38e-4ddf-bdf6-6f923c4ece1f",
+      "DisplayName": "MvcProjeKampi",
+      "ColorIndex": 0
+    },
+    "c72477e4-e910-4508-8edf-b78877989fcb": {
+      "ProjectGuid": "c72477e4-e910-4508-8edf-b78877989fcb",
+      "DisplayName": "EntityLayer",
+      "ColorIndex": 1
+    },
+    "fbcaa076-b870-4f51-94fb-dce66b904465": {
+      "ProjectGuid": "fbcaa076-b870-4f51-94fb-dce66b904465",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 2
+    },
+    "bd856941-559d-44d1-a257-af8bff7b9e75": {
+      "ProjectGuid": "bd856941-559d-44d1-a257-af8bff7b9e75",
+      "DisplayName": "BusinessLayer",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
